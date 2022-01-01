@@ -1,0 +1,2 @@
+# catamyst-docs
+Catamyst Documentation
